@@ -1,81 +1,149 @@
-📊 Job Market Analysis – Storytelling Insights (Wuzzuf Data)
+# 📊 Job Market Analysis – Storytelling Insights (Wuzzuf Data)
 
-📌 Project Objective
+## 📌 Project Objective
 
-The goal of this analysis is to understand the Egyptian job market from both perspectives:
+The goal of this analysis is to understand the **Egyptian job market** from both perspectives:
 
-Companies: where demand exists and where talent shortages appear
+* **Companies**: where demand exists and where talent shortages appear
+* **Job seekers**: which roles and industries attract the most interest
 
-Job seekers: which roles and industries attract the most interest
+The analysis focuses on **job demand, candidate interest (views), experience levels, location, and time trends**.
 
-The analysis focuses on job demand, candidate interest (views), experience levels, location, and time trends.
+---
 
+## 1️⃣ Most In-Demand & Most Offered Fields
 
-1️⃣ Most In-Demand & Most Offered Fields
-Key Findings:
-Key Findings:
+### Key Findings:
 
-The most in-demand and most offered fields are:
+* The most **in-demand and most offered fields** are:
 
-IT / Software
+  * **IT / Software**
+  * **Accounting**
+  * **Administration**
+* The cities with the **highest hiring activity** are:
 
-Accounting
+  * **Cairo**
+  * **Alexandria**
+* The most **frequently posted job titles**, which are also among the **most searched**, are:
 
-Administration
+  * **Accountant**
+  * **Sales**
 
-The cities with the highest hiring activity are:
+### Insight:
 
-Cairo
+> These fields represent the core of the Egyptian job market, combining high hiring activity with strong candidate interest.
 
-Alexandria
-
-The most frequently posted job titles, which are also among the most searched, are:
-
-Accountant
-
-Sales
-
-Insight:
-Insight:
-These fields represent the core of the Egyptian job market, combining high hiring activity with strong candidate interest.
-<img width="1441" height="852" alt="Screenshot (545)" src="https://github.com/user-attachments/assets/adec6be2-e70d-4699-8baa-87a9561e8c73" />
-
-2️⃣ High Search vs Low Supply (Talent Gap Analysis)
-Key Findings:
-
-Some fields receive high search interest but have relatively fewer job postings, including:
-
-Accounting
-
-HR
-
-Engineering
-
-Graphic Design
-
-There is very high search interest in internships, while the number of internship opportunities is limited.
-
-The most searched career levels are:
-
-Mid-level
-
-Junior
-
-Insight:
-
-This indicates a clear talent supply–demand mismatch, especially for early-career professionals and internship seekers.
-<img width="1447" height="874" alt="Screenshot (546)" src="https://github.com/user-attachments/assets/bf14d448-5089-43a1-baf8-9d96513466df" />
+<img width="1920" height="851" alt="Screenshot (553)" src="https://github.com/user-attachments/assets/7a0415ad-9838-406f-8c91-53b6dbaf9c03" />
 
 
 
 
+---
 
+## 2️⃣ High Search vs Low Supply (Talent Gap Analysis)
 
+### Key Findings:
 
+* Some fields receive **high search interest but have relatively fewer job postings**, including:
 
+  * **Accounting**
+  * **HR**
+  * **Engineering**
+  * **Graphic Design**
+* There is **very high search interest in internships**, while the number of internship opportunities is limited.
+* The most searched **career levels** are:
 
+  * **Junior**
+  * **Mid-level**
 
-<img width="1438" height="847" alt="Screenshot (547)" src="https://github.com/user-attachments/assets/0efc81ff-9422-4735-bbcf-0df1418787d7" />
-<img width="1448" height="878" alt="Screenshot (548)" src="https://github.com/user-attachments/assets/7d62ad28-e1e9-4ecc-9c5b-68fb284b5e7a" />
+### Insight:
+
+> This indicates a **clear talent supply–demand mismatch**, especially for early-career professionals and internship seekers.
+
+---
+
+## 3️⃣ Jobs Count vs Average Search Interest
+
+### Key Findings:
+
+* When comparing **number of job postings with average views per field**, we found:
+
+  * A **shortage of jobs** in:
+
+    * Accounting
+    * HR
+    * Engineering
+    * Graphic Design
+  * **Banking jobs** show:
+
+    * Relatively **high candidate interest**
+    * **Low number of available positions**
+* Fields with the **highest number of vacancies** tend to require **3–5 years of experience**, especially in:
+
+  * Customer Service
+  * Education
+  * Sales
+
+### Insight:
+
+> Companies are focusing heavily on mid-level experience, while many job seekers are targeting entry-level roles.
+
+---
+
+## 4️⃣ Time Series Analysis – When Jobs Are Posted & Searched
+
+### Key Findings:
+
+* Most job postings are published toward the **end of the year (Q4)**.
+* Hiring activity **peaks in the first quarter (Q1)** of the new year.
+* Job seeker activity:
+
+  * Is **highest at the beginning of the year**
+  * Gradually **declines over time**
+
+### Insight:
+
+> The first quarter of the year represents the **best opportunity window** for recruitment due to maximum candidate activity.
+
+---
+
+# 💡 Strategic Insights Summary
+
+* **IT, Accounting, and Administration** dominate the job market in both demand and supply.
+* There is a **significant shortage** in Accounting, HR, Engineering, Graphic Design, and Banking roles compared to candidate interest.
+* **Internships are highly demanded** but under-supplied.
+* Most vacancies require **3–5 years of experience**, creating challenges for fresh graduates.
+* **Cairo and Alexandria** remain the primary hiring hubs.
+* Job seeker activity is **seasonal**, peaking early in the year.
+
+---
+
+# 🎯 Recommendations
+
+### For Companies:
+
+* Increase job postings in:
+
+  * Accounting
+  * HR
+  * Engineering
+  * Graphic Design
+  * Banking
+  * Internships
+* Focus hiring efforts in **Q1**, when job seeker activity is highest.
+* Consider expanding hiring reach by **improving accessibility**, such as targeting candidates near **metro stations**.
+
+### For Job Seekers:
+
+* High-demand fields may have **strong competition**.
+* Exploring less saturated roles or locations can improve hiring chances.
+* Applying early in the year significantly increases visibility.
+
+---
+
+## 🏁 Final Storytelling Message
+
+> This analysis highlights a clear imbalance between market demand and candidate interest in the Egyptian job market. By aligning hiring strategies with candidate behavior and seasonal trends, companies can reduce talent shortages, while job seekers can better position themselves for success.
+
 
 
