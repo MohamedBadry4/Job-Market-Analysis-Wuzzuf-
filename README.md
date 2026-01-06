@@ -31,15 +31,25 @@ These fields represent the core of the Egyptian job market, combining high hirin
 Key Findings:
 
 Some fields receive high search interest but have relatively fewer job postings, including:
-Accounting/n
+
+Accounting
+
 HR
+
 Engineering
+
 Graphic Design
+
 There is very high search interest in internships, while the number of internship opportunities is limited.
+
 The most searched career levels are:
+
 Junior
+
 Mid-level
+
 Insight:
+
 This indicates a clear talent supply–demand mismatch, especially for early-career professionals and internship seekers.
 <img width="1447" height="874" alt="Screenshot (546)" src="https://github.com/user-attachments/assets/bf14d448-5089-43a1-baf8-9d96513466df" />
 
