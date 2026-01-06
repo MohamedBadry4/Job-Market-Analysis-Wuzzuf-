@@ -10,6 +10,7 @@ Job seekers: which roles and industries attract the most interest
 
 The analysis focuses on job demand, candidate interest (views), experience levels, location, and time trends.
 
+
 1️⃣ Most In-Demand & Most Offered Fields
 Key Findings:
 Key Findings:
