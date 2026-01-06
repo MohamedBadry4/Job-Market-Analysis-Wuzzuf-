@@ -1,50 +1,33 @@
 # Job-Market-Analysis-Wuzzuf-
-The Job Market Analysis (Wuzzuf) project is a comprehensive exploration of the Egyptian job market using real-world data collected from Wuzzuf, one of Egypt’s leading job portals. The primary goal of the analysis is to provide actionable insights for both employers and job seekers, helping companies optimize their hiring strategies and assisting candidates in identifying high-demand roles and career opportunities.
 
-The dataset includes information about job postings, such as:
+In today’s fast-changing job market, understanding what companies need and what job seekers are looking for is critical. This project analyzes real job posting data from Wuzzuf to uncover hiring trends, high-demand skills, and candidate interests.
 
-Job details: job ID, title, categories, industry, career level, experience required
+Using Power BI, I explored key questions for both sides of the job market:
 
-Location & salary: city, currency, minimum and maximum salary, salary period
+For companies: Which roles, industries, and cities have the highest hiring demand? What experience and salaries are being offered?
 
-Job metrics: number of vacancies, post date, and views
+For job seekers: Which jobs attract the most attention? How do salary, experience, and location influence candidate interest?
 
-Using Power BI, the analysis focuses on:
+The dashboard features:
 
-Demand Side (Companies):
+Hiring trends over time (time-series analysis)
 
-Identifying the most in-demand job categories and industries
+Top job categories and industries
 
-Tracking hiring trends over time
+Salary and experience benchmarking
 
-Benchmarking salaries by role, industry, and city
+Talent competition insights (jobs vs candidate interest)
 
-Analyzing experience levels required and optimizing job postings
+Visualizations for cities, industries, and job categories
 
-Supply Side (Job Seekers):
+By combining data cleaning, visualization, and advanced Power BI features, this project provides actionable insights for HR professionals, recruiters, and job seekers, helping them make data-driven decisions in the Egyptian job market.
 
-Discovering which job roles and locations attract the most attention
+Technologies:
+Power BI, DAX, Data Cleaning, Data Visualization, Wuzzuf Dataset
 
-Understanding candidate preferences and interest trends
+<img width="1441" height="852" alt="Screenshot (545)" src="https://github.com/user-attachments/assets/adec6be2-e70d-4699-8baa-87a9561e8c73" />
+<img width="1447" height="874" alt="Screenshot (546)" src="https://github.com/user-attachments/assets/bf14d448-5089-43a1-baf8-9d96513466df" />
+<img width="1438" height="847" alt="Screenshot (547)" src="https://github.com/user-attachments/assets/0efc81ff-9422-4735-bbcf-0df1418787d7" />
+<img width="1448" height="878" alt="Screenshot (548)" src="https://github.com/user-attachments/assets/7d62ad28-e1e9-4ecc-9c5b-68fb284b5e7a" />
 
-Highlighting gaps between company demand and candidate interest
 
-Time Series Analysis:
-
-Visualizing posting trends and seasonal patterns
-
-Measuring candidate engagement over time
-
-Identifying optimal posting periods to maximize visibility
-
-Advanced Insights:
-
-Highlighting talent shortages and competitive roles
-
-Evaluating posting efficiency and vacancy risk
-
-Supporting strategic decisions for recruitment planning
-
-Outcome:
-
-The project provides a clear, data-driven view of the job market, enabling companies to hire efficiently, improve talent acquisition strategies, and adapt to market trends, while helping job seekers make informed career decisions. The insights are visualized through interactive dashboards, maps, charts, and KPI cards in Power BI, making complex data easy to understand and actionable.
