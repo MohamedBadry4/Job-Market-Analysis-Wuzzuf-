@@ -12,17 +12,29 @@ The analysis focuses on job demand, candidate interest (views), experience level
 
 1️⃣ Most In-Demand & Most Offered Fields
 Key Findings:
+Key Findings:
+
 The most in-demand and most offered fields are:
+
 IT / Software
+
 Accounting
+
 Administration
 
 The cities with the highest hiring activity are:
+
 Cairo
+
 Alexandria
+
 The most frequently posted job titles, which are also among the most searched, are:
+
 Accountant
+
 Sales
+
+Insight:
 Insight:
 These fields represent the core of the Egyptian job market, combining high hiring activity with strong candidate interest.
 <img width="1441" height="852" alt="Screenshot (545)" src="https://github.com/user-attachments/assets/adec6be2-e70d-4699-8baa-87a9561e8c73" />
@@ -44,9 +56,9 @@ There is very high search interest in internships, while the number of internshi
 
 The most searched career levels are:
 
-Junior
-
 Mid-level
+
+Junior
 
 Insight:
 
