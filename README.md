@@ -31,7 +31,7 @@ These fields represent the core of the Egyptian job market, combining high hirin
 Key Findings:
 
 Some fields receive high search interest but have relatively fewer job postings, including:
-Accounting
+Accounting/n
 HR
 Engineering
 Graphic Design
