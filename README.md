@@ -33,7 +33,7 @@ The analysis focuses on **job demand, candidate interest (views), experience lev
 
 > These fields represent the core of the Egyptian job market, combining high hiring activity with strong candidate interest.
 
-<img width="1920" height="851" alt="Screenshot (553)" src="https://github.com/user-attachments/assets/7a0415ad-9838-406f-8c91-53b6dbaf9c03" />
+<img width="1348" height="851" alt="Screenshot (553)" src="https://github.com/user-attachments/assets/cae326cc-7df9-403e-9196-c2859ec0aba9" />
 
 
 
@@ -59,6 +59,10 @@ The analysis focuses on **job demand, candidate interest (views), experience lev
 ### Insight:
 
 > This indicates a **clear talent supply–demand mismatch**, especially for early-career professionals and internship seekers.
+
+<img width="1391" height="872" alt="Screenshot (554)" src="https://github.com/user-attachments/assets/59c58fe2-e46e-4a57-8203-2855260421c2" />
+
+
 
 ---
 
@@ -88,6 +92,8 @@ The analysis focuses on **job demand, candidate interest (views), experience lev
 
 > Companies are focusing heavily on mid-level experience, while many job seekers are targeting entry-level roles.
 
+<img width="1382" height="850" alt="Screenshot (555)" src="https://github.com/user-attachments/assets/21804efb-32f6-4ed3-b26d-e0c4b38ca78f" />
+
 ---
 
 ## 4️⃣ Time Series Analysis – When Jobs Are Posted & Searched
@@ -104,6 +110,8 @@ The analysis focuses on **job demand, candidate interest (views), experience lev
 ### Insight:
 
 > The first quarter of the year represents the **best opportunity window** for recruitment due to maximum candidate activity.
+
+<img width="1350" height="869" alt="Screenshot (556)" src="https://github.com/user-attachments/assets/e8507c9c-d928-4f1e-b5b3-c8b2b24c4423" />
 
 ---
 
